@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "/images/work1.png",
+    "urlCode": "https://github.com/haykmell/notes-app",
+    "website": "https://notes-appl.netlify.app/",
+    "description": "Notes Application for creating, storing, deleting also editing your notes when you need immediately write note..."
+  },
+  {
+    "id": 2,
+    "image": "/images/work2.png",
+    "urlCode": "https://github.com/haykmell/greetings-n-gratitude",
+    "website": "https://greetings-n-gratitude.space/",
+    "description": "Website for community to generate thank-you cards, create events and many more for all attendees..."
+  },
+  {
+    "id": 3,
+    "image": "/images/work3.png",
+    "urlCode": "https://github.com/haykmell/countdown-your-events",
+    "website": "https://countdown-events.netlify.app/",
+    "description": "Countdown application where you can  add event and application will create countdown for your event..."
+  },
+  {
+    "id": 4,
+    "image": "/images/work4.png",
+    "urlCode": "https://github.com/haykmell/book-finder",
+    "website": "https://book-finder-on.netlify.app/",
+    "description": "This application will help you find book and see information about book in Google Books..."
+  }
+]
