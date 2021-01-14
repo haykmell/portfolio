@@ -33,7 +33,6 @@ const LatesWork = ({ setSelectedWork }) => {
                   >
                     <div className="project-image-overlay fade-in-hover"></div>
                   </Link>
-                  <a href="/work"></a>
                 </div>
                 <p>{work.description}</p>
               </div>
