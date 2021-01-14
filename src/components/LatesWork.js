@@ -3,8 +3,6 @@ import data from "../assets/data/latest-works.json";
 import { Link } from "react-router-dom";
 
 const LatesWork = ({ setSelectedWork }) => {
-  let imgCount = 0;
-
   return (
     <section className="latest-work" id="works">
       <div className="container more">
@@ -18,7 +16,6 @@ const LatesWork = ({ setSelectedWork }) => {
 
         <div className="works">
           {data.map((work) => {
-            imgCount++;
             return (
               <div
                 className="card wow fade-in"
