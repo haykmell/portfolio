@@ -15,7 +15,6 @@ import {
   Redirect,
   Switch,
   Route,
-  Link,
 } from "react-router-dom";
 
 const App = () => {

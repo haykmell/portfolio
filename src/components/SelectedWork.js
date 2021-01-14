@@ -25,11 +25,11 @@ const SelectedWork = ({ selectedWork }) => {
               <img src={image} alt="work" />
 
               <div className="work-info-buttons">
-                <a href={website} target="_blank">
+                <a href={website} target="_blank" rel="noreferrer">
                   Visit Project{" "}
                   <FaAngleDoubleRight className="work-info-icon" />
                 </a>
-                <a href={urlCode} target="_blank">
+                <a href={urlCode} target="_blank" rel="noreferrer">
                   View Code <FaAngleDoubleRight className="work-info-icon" />
                 </a>
               </div>

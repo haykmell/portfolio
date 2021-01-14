@@ -18,6 +18,7 @@ const Contact = () => {
           <a
             href="https://github.com/haykmell"
             target="_blank"
+            rel="noreferrer"
             className="contact-btn"
           >
             <AiOutlineGithub />
@@ -25,6 +26,7 @@ const Contact = () => {
           <a
             href="mailto:softwareisfine@gmail.com"
             target="_blank"
+            rel="noreferrer"
             className="contact-btn"
           >
             <MdEmail />
@@ -32,6 +34,7 @@ const Contact = () => {
           <a
             href="https://www.youtube.com/channel/UCASIsrBaf4gZu8NItXCbpZA"
             target="_blank"
+            rel="noreferrer"
             className="contact-btn"
           >
             <AiFillYoutube />
@@ -39,6 +42,7 @@ const Contact = () => {
           <a
             href="https://www.upwork.com/freelancers/~01c8b5ccfe523c0000"
             target="_blank"
+            rel="noreferrer"
             className="contact-btn"
           >
             <SiUpwork />
