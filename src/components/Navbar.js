@@ -31,7 +31,7 @@ const Navbar = ({ hamburger, setHamburger }) => {
           <a href="/#footer-contact">Contact</a>
         </li>
         <li className="delayed-fade-in-left delay-5">
-          <a href="/">
+          <a href="resume.pdf" download>
             RESUME <FaDownload />
           </a>
         </li>
