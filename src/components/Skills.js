@@ -7,7 +7,6 @@ import { DiJqueryLogo } from "react-icons/di";
 import { BsFillBootstrapFill } from "react-icons/bs";
 import { DiReact } from "react-icons/di";
 import { SiRedux } from "react-icons/si";
-import { DiWordpress } from "react-icons/di";
 import { BiGitBranch } from "react-icons/bi";
 import { AiOutlineGithub } from "react-icons/ai";
 import { MdReportProblem } from "react-icons/md";
