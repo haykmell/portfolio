@@ -58,16 +58,13 @@ const Skills = () => {
           </div>
           <div className="row row-3">
             <div>
-              WordPress <DiWordpress />
+              Problem Solver <MdReportProblem />
             </div>
             <div>
               git <BiGitBranch />
             </div>
             <div>
               github <AiOutlineGithub />
-            </div>
-            <div>
-              Problem Solver <MdReportProblem />
             </div>
           </div>
           <div className="row row-4">
