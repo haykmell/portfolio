@@ -21,12 +21,9 @@ const Navbar = ({ hamburger, setHamburger }) => {
         <li className="delayed-fade-in-left delay-2">
           <a href="/#works">Projects</a>
         </li>
-        <li className="delayed-fade-in-left delay-1">
+        <li className="delayed-fade-in-left delay-3">
           <a href="/#contact">Connect With me </a>
         </li>
-        {/* <li className="delayed-fade-in-left delay-3">
-          <a href="/">testimonials</a>
-        </li> */}
         <li className="delayed-fade-in-left delay-4">
           <a href="/#footer-contact">Contact</a>
         </li>
